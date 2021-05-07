@@ -1,0 +1,13 @@
+###########################
+Django をやってみた
+###########################
+
+| 数年前、仕事でSphinxで使っていたので、本サイトを作成しました。
+| Django で2021.5.5(水)にブログサイトを作成しました。
+| 公開日：5.7(金)
+| `URL:http://kudoopen.pythonanywhere.com/ <http://kudoopen.pythonanywhere.com/list/>`_
+
+| メディカルAI専門コース オンライン講義資料は、同じくSphinxで作成しているようです。　
+| * メディカルAI専門コース オンライン講義資料 
+| `URL:https://japan-medical-ai.github.io/medical-ai-course-materials/ <https://japan-medical-ai.github.io/medical-ai-course-materials/>`_
+|  
